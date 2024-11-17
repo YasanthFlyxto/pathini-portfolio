@@ -5,7 +5,7 @@ import { PinContainer } from "./ui/3d-pin";
 export default function RecentProjects() {
     return (
       
-        <div className="py-20">
+        <div className="py-20" id="projects">
             <h1 className="heading">
                 A small section of {''}
                 <span className="text-purple">recent projects</span>
