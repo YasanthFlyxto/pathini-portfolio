@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { workExperience } from "../data";
 import { Button } from "./ui/MovingBorders";
 

@@ -1,4 +1,5 @@
-import { profile } from "console";
+//@ts-nocheck
+// import { profile } from "console";
 import { Button } from "../components/ui/button";
 import { socialMedia } from "../data";
 

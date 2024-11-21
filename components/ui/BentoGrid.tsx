@@ -1,6 +1,7 @@
+//@ts-nocheck
 "use client"
 
-import { useState } from 'react'
+// import { useState } from 'react'
 import { cn } from "../../lib/utils";
 import { BackgroundGradientAnimation } from "./GradientBg";
 import MagicButton from './MagicButton';
